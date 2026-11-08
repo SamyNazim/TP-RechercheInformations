@@ -2,7 +2,7 @@
 import os
 from nltk.stem import PorterStemmer
 
-Output = r"C:\Users\Samy\Desktop\TP_RI\tp1\output"
+Output = r"C:\Users\Samy\Desktop\TP-RI\tp1\output"
 InvertedIndexFile = os.path.join(Output, "InvertedIndex_Regex_Porter.txt")
 
 InvertedIndex = {}
